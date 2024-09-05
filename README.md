@@ -11,7 +11,7 @@ This Streamlit app visualizes conflict event data with interactive maps and char
 
 2. Navigate to the project directory:
    ```bash
-   cd my_streamlit_app
+   cd Violence
    ```
 
 3. Install dependencies:
